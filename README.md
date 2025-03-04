@@ -2,7 +2,7 @@
 
 Real-time tropical storm forecasting model with interactive jupyter notebook.
 
-[INSERT HERE!!!]
+![111](https://github.com/acse-hst21/Weather_Forecast_Tool/blob/96afaa753181257367e4e44c6eaef884f50c07fa/img/output.gif)
 
 
 ## About
@@ -29,7 +29,7 @@ FEMA (Federal Emergency Management Agency) in the United States has announced an
 Clone the local repository by running :
 
 ```
-git clone INSERT HERE!!!!!!!
+git clone https://github.com/acse-hst21/Weather_Forecast_Tool
 ```
 
 Then navigate to the root of the repository that you cloned and install all the required packages by running:
@@ -53,7 +53,7 @@ All the interactive function is written inside the notebook, every function will
 
 ## Documentation 
 
-[Documentation] can be found inside the the `docs` folder in the `storm_forcast.pdf` which contains installation instructions and `storm_forcast` function APIs.
+[Documentation](https://github.com/acse-hst21/Weather_Forecast_Tool/blob/96afaa753181257367e4e44c6eaef884f50c07fa/docs/storm_forcast.pdf) can be found inside the the `docs` folder in the `storm_forcast.pdf` which contains installation instructions and `storm_forcast` function APIs.
 
 
 
