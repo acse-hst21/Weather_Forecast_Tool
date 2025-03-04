@@ -1,0 +1,7 @@
+.eggs/
+.idea/
+.ipynb_checkpoints/
+wandb/
+storm_forcast.egg-info/
+storm_forcast/__pycache__
+pytorch_ssim/__pycache__
